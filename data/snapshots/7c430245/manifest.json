@@ -1,0 +1,19 @@
+{
+  "info": {
+    "snapshot_id": "7c430245",
+    "created_at": 1780573571.1230774,
+    "entry_count": 1,
+    "total_size": 1,
+    "store_type": "MemoryPersistentStore",
+    "description": "test",
+    "version": "1.0"
+  },
+  "entries": [
+    {
+      "namespace": "default",
+      "key": "a",
+      "size": 1,
+      "version": 1
+    }
+  ]
+}
